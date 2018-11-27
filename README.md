@@ -147,28 +147,11 @@ responsible for the design or style of the website, including the layout, visual
 <p>
 <p style="background-color:Tomato;">
 
-JavaScript was created by Brendan Eich in 1995 during his time at Netscape Communications.
-<br>
-<br>
-Eich wrote his first JavaScript in 10 days in May 1995.
 
-The language was officially called Live Script when it first shipped in beta 
-<br>
-<br>
-releases of Netscape Navigator 2.0 in September 1995, but it was renamed JavaScript when it was deployed in the Netscape Navigator 2.0 beta 3 in December.<br><br>
-
-JavaScript is most commonly used as a client-side scripting language. This means that JavaScript code is
-<br>
-<br>
-written into an HTML page. When a user requests an HTML page with JavaScript in it, the script is sent to the
-<br>
-<br>
-browser and it's up to the browser to do something with it.</p</div>
-
- 
-
- 
 
 <p></p>
 </body>
 </html>
+
+   
+
